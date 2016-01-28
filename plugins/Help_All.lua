@@ -2,7 +2,7 @@ do
 
 function run(msg, matches)
 return [[ 
-help For all Plugins of INfernalTG :
+help For all Plugins of UB :
 1./AddBot [Invitelink] : and you can do it with replay
 ======================================================
 2./bot + [botuserID] : allow a bot to join
@@ -118,10 +118,13 @@ dont user "!" and "/"for this plug
 ================================================== 
 95./txt2img [TXT] : text to image 
 ===========================================
-more helps soon
+💢More Plugins Coming Soon💢
 you can use both "!" and "/"
-our channell : @INFERNALTEAMCH
-Master admin : @ArashInfernal
+⭕️Our_Channel:
+🔴@UB_CH
+🔱Master_Admin:
+🔆@redteam_ubteam 
+
 ]]
 end
 
