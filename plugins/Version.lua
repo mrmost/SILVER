@@ -2,18 +2,16 @@ do
 
 function run(msg, matches)
 return [[ 
-INFERNALTEAM Robot Ver 4.2
-AntispamBot : @InfernalTG
-website : https://arashinfernal.epage.ir
-Our Channel : @INFERNALTEAMCH
-@INFERNALCHANNEL
-@INFERNALTEAM
-Our code is open source but !
-remember : copy right!
-https://github.com/INFERNALTEAM/InfernalTG
-spical thanx...
-imandaneshi ...
-iwals ...
+UB-TeaM Robot Ver 4.2
+AntispamBot : @UB_manager
+Our Channel : @UB_CH
+
+This Bot Is A BeSt Anti-Spam Bot !
+
+Fucked All Spammers !
+
+Youre Group Security 100% 
+With bot!
 
 ]]
 end
