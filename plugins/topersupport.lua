@@ -1,7 +1,7 @@
 do
 
 function run(msg, matches)
-  return " The Invition for Infernals Persian Support is : https://telegram.me/joinchat/CptvyAXK-WeW2LVz5yUScQ "
+  return " The Invition for UB Persian Support is : https://telegram.me/joinchat/CnzwQwXbKmyG8l3eDLD2MQ "
   end
 return {
   description = "shows persian supports grouplink", 
