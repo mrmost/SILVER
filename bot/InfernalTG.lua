@@ -234,32 +234,25 @@ function create_config( )
     "tagall",
     
     },
-    sudo_users = {109722284,99743635,171604508},--Sudo users
+    sudo_users = {140925196,121122782},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[infernalTG  v2 - Open Source
+    about_text = [[UB-RoBoT  v2 - Close Source
 An advance Administration bot based on yagop/telegram-bot 
- 
- our official github :
- https://github.com/INFERNALTEAM/InfernalTG.git
-Antispambot : @InfernalTG
-website ; https://arash-infernal.epage.ir
-Admins
-@Creed_is_dead [Founder]
-@digitalboys [Developer]
-@Arashinfernal [Developer]
-@MustafFlux [Manager]
 
-Special thanks to
-Imandaneshi
-thisisarman
-yago perez ...
-and more ...
+http://uupload.ir/files/iffc_boxing_logo.jpg
+
+
+You can apply for the Group to the directors robot
+Thank
+
+Admins
+@Mr_SilVer1 [Developer]
+@redteam_ubteam [Sudo]
+@Ashkanovich_UB_Admin [Manager]
 
 Our channels
-@Infernalteamch [English]
-@infernalchannel [persian]
-@Infernalteam [persian]
+@ub_ch
 ]],
     help_text_realm = [[
 group admin Commands:
@@ -317,7 +310,7 @@ group admin Commands:
 *Only admins and sudo can use res, setowner, commands
 ]],
     help_text = [[
-tools for InfernalTG :
+tools for UB :
 
 >#1.Add_bot
 >#2.Anti_Bot
@@ -352,10 +345,10 @@ tools for InfernalTG :
 >#30.SendPm
 >#31.tagall
 >#32.share
-help all plugin soon :D ,"
-You Can Get Bot version by sending !version,"
-Master admin : @ArashInfernal ,"
-our channel : @INFERNALTEAMCH ,"
+☑️NeW Plugins Coming 🔜
+You Can Get Bot version by sending !version
+Master admin : @redteam_ubteam 
+our channel : @UB_CH
 
 ]]
   }
